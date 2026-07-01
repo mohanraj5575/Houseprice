@@ -1,6 +1,4 @@
-scikit-learn
-matplotlib
-pandas
+streamlit==1.40.0
 numpy
-pickle
-sklearn
+pandas
+scikit-learn==1.5.2
